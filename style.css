@@ -6,7 +6,7 @@ body {
 }
 
 #title {
-  vertical-align:middle;
+  vertical-align: text-bottom;
   text-align: center;
   font-size: 50px;
   color: lightgrey;
@@ -24,6 +24,7 @@ ul {
   width: 100%;
   top: 0;
   left: 0;
+  font-family: Helvetica;
 }
 
 li a {
