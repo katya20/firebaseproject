@@ -7,6 +7,10 @@ body {
 }
 */
 
+body {
+  background: url("https://images7.alphacoders.com/396/396289.jpg")
+}
+
 #title {
   vertical-align: text-bottom;
   text-align: center;
@@ -38,7 +42,7 @@ li a {
 }
 
 .active {
-  color: lightpink;
+  color: pink;
 }
 
 li a:hover {
