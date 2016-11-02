@@ -8,8 +8,7 @@ body {
 */
 
 body {
-  background: url("https://images7.alphacoders.com/396/396289.jpg");
-    background-size: contain;
+  background: url("https://images7.alphacoders.com/396/396289.jpg")
 }
 
 #title {
@@ -23,7 +22,7 @@ body {
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 20;
   overflow: hidden;
   position: fixed;
   opacity: 0.5;
@@ -42,8 +41,8 @@ li a {
   color: black;
 }
 
-.active {
-  color: pink;
+li a:active {
+  color: darkgrey;
 }
 
 li a:hover {
