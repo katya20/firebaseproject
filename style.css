@@ -23,6 +23,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 20;
+  margin-left: 50px;
   overflow: hidden;
   position: block;
   opacity: 0.5;
@@ -42,9 +43,11 @@ li a {
 }
 
 li a:active {
-  color: darkgrey;
+  color: lightgrey;
+  text-decoration: none;
 }
 
 li a:hover {
   color: white;
+  text-decoration: none;
 }
